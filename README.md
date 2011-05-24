@@ -1,13 +1,12 @@
-# [Uni-Form Markup](http://sprawsm.com/uni-form/) : Making forms as simple as 1,2,3
+# RightJS UniForm - A Fork of Uni-Form for RightJS
 
 ## Announcements:
 
-* __Please note that the jQuery plugins no longer automatically initialize.__
-  You must init them yourself with the code found in the section below 
-  titled "How to use?"
+* 24052011 - __Please note that this is now a custom fork of the Uni-form CSS & Javascript Library intended for RightJS (http://www.rightjs.org/) only [if you want to use the javascript part of things. The CSS is kosher but the naming conventions have been revamped to my preferred element naming conventions.__
   
 
-## Copyright (c) 2010, Dragan Babic
+## Copyright (c) 2011, Thom Simmons
+   Portions Copyright (c) 2010, Dragan Babic
    
    Permission is hereby granted, free of charge, to any person
    obtaining a copy of this software and associated documentation
@@ -31,7 +30,7 @@
    OTHER DEALINGS IN THE SOFTWARE.
 
 
-## About Uni–Form 
+## About Uni–Form for RightJS
 
 Uni-Form is a framework that standardizes form markup and styles it with CSS 
 giving you two most widely used layout options to choose from. Anyone can get nice 
